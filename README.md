@@ -8,7 +8,18 @@ The software to be produced is on “Office Management System”. As the name su
 
 ![images](https://github.com/andy0427s/Office-Management-System/blob/main/img/OA1-login%20page.png)
 
+
+![images](https://github.com/andy0427s/Office-Management-System/blob/main/img/OA2-OA%20page.png)
+
+![images](https://github.com/andy0427s/Office-Management-System/blob/main/img/OA2-OA%20page.png)
+
+![images](https://github.com/andy0427s/Office-Management-System/blob/main/img/OA3-application%20page.png)
+
+![images](https://github.com/andy0427s/Office-Management-System/blob/main/img/OA4-notification page.png)
+
+
 ## Waitting to be edited
+
 
 
 which they can log in and use the system. He also has the right to add or modify the given username and password of the employee. The Admin also saves the complete employee details in the database. Admin has the security code while he signs in for the security purpose which will be known only to the Admin. Admin can assign tasks to the employee through the network based system. The notifications or the task assigned can be viewed by that particular employee to whom the task has been assigned when he signs in. Any complaint by the employee can be sent to the Admin.
