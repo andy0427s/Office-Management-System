@@ -6,16 +6,18 @@ The software Office Management Systems objective is to provide a system which ma
 
 The software to be produced is on “Office Management System”. As the name suggests this is something related to the company or to the institution office. Here there are mainly 2 type of users i.e. Manager and the employee. When manager signs in, the welcome page is different and there are more avaiable functions for them to operate. 
 
+### Login page
+
 ![images](https://github.com/andy0427s/Office-Management-System/blob/main/img/OA1-login%20page.png)
 
-
+### Approval page 
 ![images](https://github.com/andy0427s/Office-Management-System/blob/main/img/OA2-OA%20page.png)
 
-![images](https://github.com/andy0427s/Office-Management-System/blob/main/img/OA2-OA%20page.png)
-
+### Application page
 ![images](https://github.com/andy0427s/Office-Management-System/blob/main/img/OA3-application%20page.png)
 
-![images](https://github.com/andy0427s/Office-Management-System/blob/main/img/OA4-notification page.png)
+### Notification page
+![images](https://github.com/andy0427s/Office-Management-System/blob/main/img/OA4-notification%20page.png)
 
 
 ## Waitting to be edited
