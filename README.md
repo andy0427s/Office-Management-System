@@ -2,11 +2,13 @@
 
 The software Office Management Systems objective is to provide a system which manages employees leaves and absence using a computer within a fraction of seconds. The software stores all the important data’s like a employee list, department list and system notice list keeping system through a database. This automated system is user friendly and error free. Paper work and manual power can be reduced using this automated system.
 
-Description: The software to be produced is on “Office Management System”. As the name suggests this is something related to the company or to the institution office. Here there are mainly 2 type of users i.e. Manager and the employee. When manager signs in, the welcome page is different and there are more avaiable functions for them to operate. 
+## Description
+
+The software to be produced is on “Office Management System”. As the name suggests this is something related to the company or to the institution office. Here there are mainly 2 type of users i.e. Manager and the employee. When manager signs in, the welcome page is different and there are more avaiable functions for them to operate. 
 
 
 
-# Waitting to be edited
+## Waitting to be edited
 
 
 which they can log in and use the system. He also has the right to add or modify the given username and password of the employee. The Admin also saves the complete employee details in the database. Admin has the security code while he signs in for the security purpose which will be known only to the Admin. Admin can assign tasks to the employee through the network based system. The notifications or the task assigned can be viewed by that particular employee to whom the task has been assigned when he signs in. Any complaint by the employee can be sent to the Admin.
