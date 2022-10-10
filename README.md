@@ -15,7 +15,7 @@ which they can log in and use the system. He also has the right to add or modify
 
 Admin also has the authority to calculate the net salary for each employee depending on their attendance and basic salary and a pay slip will be generated. The employees can even apply for leave using the system. There are only a limited leaves in a month. Exceeding the limit n employee cannot apply for leave. The leave notification will be sent to the Admin. The Admin has a special feature of viewing periodic reports like the number of tasks assigned, number of tasks completed, salary report etc. All the information will be saved safely in the database.
 
-Modules of the software:
+## Modules of the software:
 
 Login Registration: Admin provides username and password to the employee. He also has the right to add or modify the given username and password of the employee. Using this username and password, an employee can login to the system.
 
