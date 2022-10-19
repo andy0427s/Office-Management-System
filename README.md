@@ -20,13 +20,6 @@ The software to be produced is on “Office Management System”. As the name su
 ![images](https://github.com/andy0427s/Office-Management-System/blob/main/img/OA4-notification%20page.png)
 
 
-## Waitting to be edited
-
-
-
-which they can log in and use the system. He also has the right to add or modify the given username and password of the employee. The Admin also saves the complete employee details in the database. Admin has the security code while he signs in for the security purpose which will be known only to the Admin. Admin can assign tasks to the employee through the network based system. The notifications or the task assigned can be viewed by that particular employee to whom the task has been assigned when he signs in. Any complaint by the employee can be sent to the Admin.
-
-Admin also has the authority to calculate the net salary for each employee depending on their attendance and basic salary and a pay slip will be generated. The employees can even apply for leave using the system. There are only a limited leaves in a month. Exceeding the limit n employee cannot apply for leave. The leave notification will be sent to the Admin. The Admin has a special feature of viewing periodic reports like the number of tasks assigned, number of tasks completed, salary report etc. All the information will be saved safely in the database.
 
 ## Modules of the software:
 
